@@ -73,8 +73,6 @@
 
 </div>
 
-> 再次感谢所有可爱、热情、有趣的朋友们！感谢大家的交流和贡献！
-
 ## 😄 友链推荐
 
 - [Awesome Tech Share](https://wncfht.github.io/Awesome-Tech-Share/) ：这是一个以计算机领域为主，旨在减小信息差、促进成员相互督促与反思的网站。
@@ -83,5 +81,7 @@
 ## 📃 贡献者申请
 
 你可以通过以下两种方式申请成为贡献者以及添加友链等相关事宜：
-1. **与我[联系](https://weshare.xin/#/about/?id=💌-联系)**：直接通过该链接找到联系方式，与相关负责人沟通你的申请意向及具体情况。
-2. **在[github](https://github.com/weshare2025/weshare.github.io/edit/master/about/Friends.md)操作**：在该github链接对应的页面，你可以提交`issues`（提出问题、建议等），清晰阐述你目前的想法；或者提交`pull requests`（拉取请求，即提交你对相关页面内容修改的版本），以便后续处理和审核。 
+1. 与我[联系](https://weshare.xin/#/about/?id=💌-联系)：直接通过该链接找到联系方式，与相关负责人沟通你的申请意向及具体情况。
+2. 在[github](https://github.com/weshare2025/weshare.github.io/edit/master/about/Friends.md)操作：在该github链接对应的页面，你可以提交`issues`（提出问题、建议等），清晰阐述你目前的想法；或者提交`pull requests`（拉取请求，即提交你对相关页面内容修改的版本），以便后续处理和审核。 
+
+> 再次感谢所有可爱、热情、有趣的朋友们！感谢大家的交流和贡献！
