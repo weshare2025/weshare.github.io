@@ -75,25 +75,13 @@
 
 > 再次感谢所有可爱、热情、有趣的朋友们！感谢大家的交流和贡献！
 
+## 😄 友链推荐
+
+- [Awesome Tech Share](https://wncfht.github.io/Awesome-Tech-Share/) ：这是一个以计算机领域为主，旨在减小信息差、促进成员相互督促与反思的网站。
+- [AI Tour](https://aitour.site/) ：这是一本由人工智能专业学生创作，融合个人学习记录、课程分享、工具介绍及学习路线规划，旨在为人工智能领域初学者尤其是本科低年级学生提供全面帮助与指导，并致力于整合优质AI学习资源的实用平台。 
+
 ## 📃 贡献者申请
 
-与我 [ 联系 ](https://weshare.xin/#/about/?id=💌-联系)  或者 [github](https://github.com/weshare2025/weshare2025.github.io/edit/master/about/Friends.md) 提`issues`or`pull requests`都行
-
-<!--
-<div class="friends">
-     <a class="a-friend" target="_blank" style="background-color:#FF9966;color:black" href="https://www.cnblogs.com/bytesfly/">
-        <img class="blog-avatar" src="https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png">
-        <div class="text-container">
-            <div class="name">字节飞扬</div>
-            <div class="description">互联网是有记忆的，我想留下一些成长的脚印。</div>
-        </div>
-    </a>
-     <a class="a-friend" target="_blank" style="background-color:#98b755;color:black" href="https://notebook.js.org/">
-        <img class="blog-avatar" src="https://gitee.com/wugenqiang/PictureBed/raw/master/NoteBook/20200617115404.jpg">
-        <div class="text-container">
-            <div class="name">ETS' NoteBook</div>
-            <div class="description">记录本科及研究生阶段所学的计算机专业知识。</div>
-        </div>
-    </a>
-</div>
--->
+你可以通过以下两种方式申请成为贡献者以及添加友链等相关事宜：
+1. **与我[联系](https://weshare.xin/#/about/?id=💌-联系)**：直接通过该链接找到联系方式，与相关负责人沟通你的申请意向及具体情况。
+2. **在[github](https://github.com/weshare2025/weshare.github.io/edit/master/about/Friends.md)操作**：在该github链接对应的页面，你可以提交`issues`（提出问题、建议等），清晰阐述你目前的想法；或者提交`pull requests`（拉取请求，即提交你对相关页面内容修改的版本），以便后续处理和审核。 
