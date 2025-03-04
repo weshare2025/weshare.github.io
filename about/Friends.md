@@ -88,20 +88,18 @@
 
 ## 📃 评论区
 
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-  var gitalk = new Gitalk({
-    clientID: 'Ov23liymioFe4Wa6glgq',
-    clientSecret: '27adeaf70b356cfb500573a59cefa373bc69355c',
-    repo: 'weshare.github.io', // 请替换为实际仓库名
-    owner: 'weshare2025', // 请替换为实际用户名
-    admin: ['weshare2025'], // 如果有多个管理员，可以写成数组形式 ['admin1', 'admin2']
-    id: location.pathname, // 以当前页面路径作为评论的唯一标识
-    distractionFreeMode: false // 是否开启无干扰模式，默认为false
-  });
-  gitalk.render('gitalk-container');
+<script src="https://giscus.app/client.js"
+        data-repo="weshare2025/weshare.github.io"
+        data-repo-id="R_kgDOOCZNIQ"
+        data-category="Q&A"
+        data-category-id="DIC_kwDOOCZNIc4CniWt"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
 </script>
