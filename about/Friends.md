@@ -89,4 +89,4 @@
 ## 📃 评论区
 
 <!-- 以下是添加的评论区域 -->
-<div id="gitalk-container"></div>
+<div id="cusdis_thread"></div>
