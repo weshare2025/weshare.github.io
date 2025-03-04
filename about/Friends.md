@@ -88,18 +88,10 @@
 
 ## 📃 评论区
 
-<script src="https://giscus.app/client.js"
-        data-repo="weshare2025/weshare.github.io"
-        data-repo-id="R_kgDOOCZNIQ"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOOCZNIc4CniWr"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="zh-CN"
+<script src="https://utteranc.es/client.js"
+        repo="weshare2025/utterances-comments"
+        issue-term="pathname"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
