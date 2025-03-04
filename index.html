@@ -435,7 +435,7 @@
       admin: ['weshare2025'],
       // facebook-like distraction free mode
       distractionFreeMode: false,
-      id: location.pathname // 确保每个页面有唯一的 id
+      id: window.location.href//id: location.pathname // 确保每个页面有唯一的 id
     });
 
     gitalk.render('gitalk-container'); // 这里的 'gitalk-container' 要和 friend.md 中 div 的 id 一致
