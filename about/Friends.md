@@ -88,5 +88,14 @@
 
 ## 📃 评论区
 
-<!-- 以下是添加的 Gitalk 评论区 -->
-<div id="gitalk-container"></div>
+<!-- 以下是添加的评论区域 -->
+<div id="utterances-comments"></div>
+
+<script src="https://utteranc.es/client.js"
+        repo="weshare2025/comments"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
