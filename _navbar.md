@@ -4,6 +4,7 @@
   - [全国大学生计算机设计大赛](README?id=全国大学生计算机设计大赛)
   - [中国机器人及人工智能大赛](README?id=中国机器人及人工智能大赛)
   - [全球人工智能算法精英大赛](README?id=全球人工智能算法精英大赛)
+  - [睿抗机器人开发者大赛(RAICOM)](README?id=睿抗机器人开发者大赛(RAICOM))
   - [蓝桥杯](README?id=蓝桥杯)
   
 - [<span class="iconfont icon-lianjie"></span> 致谢](about/Friends.md)  
