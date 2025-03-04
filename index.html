@@ -423,9 +423,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/zoom-image.min.js"></script>
 
-  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: 'Ov23liNJ09tTXLamxeyx',
@@ -435,7 +434,7 @@
       admin: ['weshare2025'],
       // facebook-like distraction free mode
       distractionFreeMode: false,
-      id: window.location.href//id: location.pathname // 确保每个页面有唯一的 id
+      id: location.pathname // 确保每个页面有唯一的 id
     });
 
     gitalk.render('gitalk-container'); // 这里的 'gitalk-container' 要和 friend.md 中 div 的 id 一致
