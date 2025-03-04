@@ -85,3 +85,23 @@
 2. 在[github](https://github.com/weshare2025/weshare.github.io/edit/master/about/Friends.md)操作：在该github链接对应的页面，你可以提交`issues`（提出问题、建议等），清晰阐述你目前的想法；或者提交`pull requests`（拉取请求，即提交你对相关页面内容修改的版本），以便后续处理和审核。 
 
 > 再次感谢所有可爱、热情、有趣的朋友们！感谢大家的交流和贡献！
+
+## 📃 评论区
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+  var gitalk = new Gitalk({
+    clientID: 'Ov23liymioFe4Wa6glgq',
+    clientSecret:'sf836a7284d9f34d9c04447e8a665df8f42247933',
+    repo: 'weshare.github.io', // 请替换为实际仓库名
+    owner: 'weshare2025', // 请替换为实际用户名
+    admin: ['weshare2025'], // 如果有多个管理员，可以写成数组形式 ['admin1', 'admin2']
+    id: location.pathname, // 以当前页面路径作为评论的唯一标识
+    distractionFreeMode: false // 是否开启无干扰模式，默认为false
+  });
+  gitalk.render('gitalk-container');
+</script>
