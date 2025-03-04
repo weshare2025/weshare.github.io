@@ -423,6 +423,22 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/zoom-image.min.js"></script>
 
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'Ov23liNJ09tTXLamxeyx',
+      clientSecret: '78bceca04898d39ec83047d240e5b8ce5e695678',
+      repo: 'weshare2025/weshare.github.io',
+      owner: 'weshare2025',
+      admin: ['weshare2025'],
+    // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
+
   <!-- 支持 DOT 语言 -->
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/viz.js"></script>
   <!-- 支持 LaTex 语言 -->
