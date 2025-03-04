@@ -96,7 +96,7 @@
 <script>
   var gitalk = new Gitalk({
     clientID: 'Ov23liymioFe4Wa6glgq',
-    clientSecret: 'sf836a7284d9f34d9c04447e8a665df8f42247933',
+    clientSecret: '27adeaf70b356cfb500573a59cefa373bc69355c',
     repo: 'weshare.github.io', // 请替换为实际仓库名
     owner: 'weshare2025', // 请替换为实际用户名
     admin: ['weshare2025'], // 如果有多个管理员，可以写成数组形式 ['admin1', 'admin2']
