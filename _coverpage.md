@@ -1,4 +1,4 @@
-![icon](https://weshare.xin/cover2.jpg)
+![icon](https://weshare.xin/cover.jpg)
 
 ## WeShare
 
