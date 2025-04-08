@@ -68,7 +68,7 @@
 ### 蓝桥杯
 
 **软件赛道:**
-- [Python A组[国家一等奖] @Apen](蓝桥杯/软件赛道/python国一.md)
+- [Python A组[国家一等奖] @dandan](蓝桥杯/软件赛道/python国一.md)
 - [Python A组[国家三等奖] @Apen](蓝桥杯/软件赛道/python国三.md)
   
 **硬件赛道:**
